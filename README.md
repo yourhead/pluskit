@@ -7,8 +7,8 @@ Create mashups with your RapidWeaver pages and give them extra abilities.
 
 
 ## Download
- - [Stable Release v2.90.7](https://github.com/yourhead/lockdown/raw/v2.90.7/downloads/lockdown_2.90.7.zip)
- - [Beta Release v3.0.0 beta 1](https://github.com/yourhead/lockdown/raw/master/downloads/Lockdown_3.0.0b1_1043.zip) -- [Release Notes](http://yourhead.com/appcast/RW6/Lockdown/release_notes_3.0.0b1_1043)
+ - [Stable Release v2.40](https://github.com/yourhead/pluskit/raw/v2.40/downloads/pluskit_2.40.dmg)
+ - Beta Release v3.0.0 beta 1 - soon
 
 
 ### From the LogHound site
