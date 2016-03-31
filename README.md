@@ -7,7 +7,7 @@ Create mashups with your RapidWeaver pages and give them extra abilities.
 
 
 ## Download
- - [PlusKit v3.0.0](httpshttps://github.com/yourhead/pluskit/raw/v3.0.0/downloads/PlusKit_3.0.0_1103.zip)
+ - [PlusKit v3.0.0](https://github.com/yourhead/pluskit/raw/v3.0.0/downloads/PlusKit_3.0.0_1103.zip)
 
 
 ### From the LogHound site
