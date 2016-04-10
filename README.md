@@ -3,12 +3,11 @@
 #### originally by LogHound
 Create mashups with your RapidWeaver pages and give them extra abilities.
 
-![PlusKit Icon](https://raw.githubusercontent.com/yourhead/pluskit/master/assets/icon_256.png)
-
 
 ## Download
  - [PlusKit v3.0.0](https://github.com/yourhead/pluskit/raw/v3.0.0/downloads/PlusKit_3.0.0_1103.zip)
 
+<img src='https://raw.githubusercontent.com/yourhead/pluskit/master/assets/icon_256.png' width=256 >
 
 ### From the LogHound site
 
